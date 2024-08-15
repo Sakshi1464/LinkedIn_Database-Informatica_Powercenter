@@ -1,6 +1,6 @@
 # _config.yml
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/slate
 
 plugins:
   - jekyll-remote-theme
