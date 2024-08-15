@@ -1,6 +1,6 @@
 # _config.yml
 
-remote_theme: jekyll/slate
+remote_theme: pages-themes/slate
 
 plugins:
   - jekyll-remote-theme
