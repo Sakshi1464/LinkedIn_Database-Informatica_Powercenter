@@ -166,7 +166,7 @@ These transformations are vital in ensuring that data is accurately and effectiv
 
 ## Scenarios
 
-### 4.1 Users Who Have a Combination of Specific Skills
+### Users Who Have a Combination of Specific Skills
 
 **Objective:** Identify users proficient in both Java and Python.
 
@@ -196,7 +196,7 @@ The `TARGET_COMB_SKILLS` table contains users who have both Java and Python skil
 
 ---
 
-### 4.2 Top Industries by User Count
+### Top Industries by User Count
 
 **Objective:** Identify industries with the highest user count.
 
@@ -220,7 +220,7 @@ The `TARGET_TOPCOMPANIES` table displays the top companies by user count.
 
 ---
 
-### 4.3 Recommend Posts to Users Based on Their Skills
+###  Recommend Posts to Users Based on Their Skills
 
 **Objective:** Recommend posts containing skills listed in users' profiles.
 
@@ -242,7 +242,7 @@ The `POSTS_RES` table contains posts relevant to the skills listed by users.
 
 ---
 
-### 4.4 Users Who Graduated Within a Specific Year Range
+###  Users Who Graduated Within a Specific Year Range
 
 **Objective:** Identify users who graduated between 2011 and 2015.
 
@@ -264,7 +264,7 @@ The target table contains users who graduated between 2011 and 2015.
 
 ---
 
-### 4.5 Users Who Have Experience in Two or More Different Companies
+###  Users Who Have Experience in Two or More Different Companies
 
 **Objective:** Identify users who have worked in two or more different companies.
 
@@ -288,7 +288,7 @@ The target table contains users with experience in two or more different compani
 
 ---
 
-### 4.6 Users Studied in IIT or NIT
+###  Users Studied in IIT or NIT
 
 **Objective:** Identify users who have studied in IIT or NIT.
 
@@ -306,7 +306,7 @@ The target table contains users who have studied at IIT or NIT.
 
 ---
 
-### 4.7 Evaluating Candidates Based on Average Tenure at Companies
+###  Evaluating Candidates Based on Average Tenure at Companies
 
 **Objective:** Evaluate candidates based on their average tenure at companies.
 
@@ -330,7 +330,7 @@ The target table shows candidates' total experience across all companies.
 
 ---
 
-### 4.8 Find Users Who Have More Than 2 Connections
+###  Find Users Who Have More Than 2 Connections
 
 **Objective:** Identify users with more than 2 connections.
 
@@ -354,7 +354,7 @@ The `ACTIVE_USERS` table contains users with more than 2 connections.
 
 ---
 
-### 4.9 Group User Experiences by Specific Locations Using Router Transformation
+###  Group User Experiences by Specific Locations Using Router Transformation
 
 **Objective:** Group user experiences based on their locations.
 
@@ -384,7 +384,7 @@ Default:
  
 ---
 
-### 4.10 Retrieve User Names for Posts Using Lookup Table
+###  Retrieve User Names for Posts Using Lookup Table
 
 **Objective:** Match user IDs from posts with usernames.
 
@@ -404,7 +404,7 @@ The target table contains usernames corresponding to posts.
 
 ---
 
-### 4.11 Total Experience of a User in All the Companies
+###  Total Experience of a User in All the Companies
 
 **Objective:** Calculate the total experience of users across all companies.
 
