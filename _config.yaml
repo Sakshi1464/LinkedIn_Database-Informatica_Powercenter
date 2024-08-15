@@ -1,6 +1,6 @@
 # _config.yml
 
-remote_theme: pages-themes/cayman
+remote_theme: pages-themes/architect
 
 plugins:
   - jekyll-remote-theme
