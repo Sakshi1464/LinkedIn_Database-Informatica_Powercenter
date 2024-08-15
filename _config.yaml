@@ -1,6 +1,6 @@
 # _config.yml
 
-remote_theme: pages-themes/architect
+remote_theme: pages-themes/minima
 
 plugins:
   - jekyll-remote-theme
